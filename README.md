@@ -44,8 +44,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-ori
     title="DOTNET" 
     width="30px" 
     style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-plain.svg"/>
-          
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
 
 <img
     align="left" 
@@ -84,6 +83,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqld
 
 ### 📊 Estatísticas
 
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -98,4 +98,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqld
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilainezx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&size_weight=0.5&count_weight=0.5" 
   />
-
+<p/>
