@@ -1,0 +1,26 @@
+.body {
+    margin: 0px;
+}
+.container {
+    background-color: #456789;
+    border-left: #410671 5px solid;
+
+    position: relative;
+    right: 10px;
+    top: 3px;
+}
+.titulo1 {
+    background-color: #530a0a;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.paragrafo {
+    font-size: 25px;
+    margin-top: 0px;
+    padding: 10px;
+}
+.titulo2 {
+    font-size: 30px;
+    background-color: aquamarine;
+    padding: 10px;
+}
