@@ -96,6 +96,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqld
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilainezx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilainezx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&size_weight=0.5&count_weight=0.5" 
   />
 
