@@ -99,3 +99,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqld
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilainezx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&size_weight=0.5&count_weight=0.5" 
   />
 <p/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilainezx/emilainezx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilainezx/emilainezx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emilainezx/emilainezx/output/pacman-contribution-graph.svg">
+</picture>
