@@ -91,7 +91,7 @@ const telaFinal = document.querySelector(".tela-final"); // Seleciona a caixa da
 const txtPontuacao = document.getElementById("pontuacao"); // Seleciona onde a pontuação final será escrita.
 const botaoFinal = document.getElementById("botao-final"); // Seleciona o botão "Jogar de Novo" na tela final.
 
-// <<< NOVIDADE: SELEÇÃO DOS ELEMENTOS DE ÁUDIO >>>
+// <<< ELEMENTOS DE ÁUDIO >>>
 const somAcerto = document.getElementById("som-acerto"); // Seleciona a tag <audio> do som de acerto.
 const somErro = document.getElementById("som-erro"); // Seleciona a tag <audio> do som de erro.
 
@@ -189,13 +189,13 @@ function verificarResposta(indiceEscolhido){ // Função chamada quando o usuár
     if (indiceEscolhido === correta){ // Se o índice clicado for igual ao índice correto.
         pontuacao++; // Aumenta a pontuação em 1.
         botoesResposta[indiceEscolhido].style.backgroundColor = "green"; // Pinta o botão de verde.
-        somAcerto.play(); // <<< CORREÇÃO: REPRODUZ O SOM DE ACERTO.
+        somAcerto.play(); // Toca o som de acerto.
     } // Fim do if de acerto.
     else { // Se errou
         erros.push(indice + 1); // Adiciona o número da questão errada à lista de erros.
         botoesResposta[indiceEscolhido].style.backgroundColor = "red"; // Pinta o botão clicado (errado) de vermelho.
         botoesResposta[correta].style.backgroundColor = "green"; // Pinta a resposta correta de verde para visualização.
-        somErro.play(); // <<< CORREÇÃO: REPRODUZ O SOM DE ERRO.
+        somErro.play(); // Toca o som de erro.
     } // Fim do else de erro.
 
     // desliga todos os botões de alternativa
@@ -240,21 +240,33 @@ function proximaPergunta(tempoEsgotado = false){ // Função que move o jogo par
 } // Fim da função proximaPergunta.
 
 // Tela final do quiz
-function finalizarQuiz(){ // Função que exibe o resultado.
+function finalizarQuiz(){ // Função que exibe o resultado com feedback personalizado.
     app.style.display = "none"; // Oculta a tela do quiz.
     telaFinal.style.display = "block"; // Mostra a tela final.
 
-    txtPontuacao.textContent = "Sua pontuação foi: " + pontuacao + " de 10"; // Exibe a pontuação total.
+    let mensagem = ""; // Variável para armazenar a mensagem personalizada.
+    let acertos = pontuacao; // Armazena a quantidade de acertos.
+    
+    // <<< LÓGICA DE MENSAGENS PERSONALIZADAS POR PONTUAÇÃO >>>
+    // Define a mensagem de feedback com base na pontuação
+    if (acertos === 10) { // Se acertou todas as 10.
+        mensagem = "Parabéns! Você é incrível, acertou todas as 10 questões! Um verdadeiro expert em Havaianas!"; // Mensagem de gabarito.
+    } else if (acertos >= 8) { // Se acertou 8 ou 9.
+        mensagem = `Excelente! Você acertou ${acertos} de 10 questões! Quase gabaritou, continue assim!`; // Mensagem de pontuação alta.
+    } else if (acertos >= 5) { // Se acertou de 5 a 7.
+        mensagem = `Nada mal! Você acertou ${acertos} de 10 questões. Já conhece bem a marca, mas ainda dá para melhorar!`; // Mensagem de pontuação média.
+    } else if (acertos >= 1) { // Se acertou de 1 a 4.
+        mensagem = `Bom esforço, você acertou ${acertos} de 10. Tente de novo para descobrir mais curiosidades!`; // Mensagem de pontuação baixa.
+    } else { // Se acertou 0.
+        mensagem = "Você não conhecia a Havaianas? Tente de novo! Estude as dicas e volte para gabaritar!"; // Mensagem de erro total.
+    } // Fim da lógica de feedback.
 
-    if (erros.length > 0){ // Se a lista de erros não estiver vazia.
-        txtPontuacao.innerHTML += "<br>Você errou as questões: " + erros.join(", "); // Lista os números das questões erradas.
-    } else { // Se o jogador não errou.
-        txtPontuacao.innerHTML += "<br>Você não errou nenhuma!"; // Mensagem de parabéns.
-    } // Fim do if/else de erros.
+    txtPontuacao.textContent = mensagem; // Exibe a mensagem personalizada.
+
 } // Fim da função finalizarQuiz.
 
 // Botão de jogar de novo
 botaoFinal.addEventListener("click", function(){ // Adiciona evento de clique ao botão "Jogar de Novo".
     telaFinal.style.display = "none"; // Esconde a tela de resultados.
     telaInicial.style.display = "block"; // Volta para a tela inicial do jogo.
-}); // Fim da função de evento do botão final.
+}); // Fim da função de evento do botão final.
