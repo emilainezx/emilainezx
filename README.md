@@ -32,48 +32,38 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-ori
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
 
+<img
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"/>
 
 <img 
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-          
-
-<img 
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-  align="left" 
-  alt="CSS" 
-  title="CSS"
-  width="30px" 
-  style="padding-right: 10px;" 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-  align="left" 
-  alt="Bootstrap"
-  title="Bootstrap" 
-  width="30px" 
-  style="padding-right: 10px;" 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img
- align="left" 
-  alt="Bootstrap"
-  title="Bootstrap" 
-  width="30px"  
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-          
-          
 <br/>
 <br/>
 
@@ -93,15 +83,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
   alt="activity-graph graph"
   src="https://github-readme-activity-graph.vercel.app/graph?username=emilainezx&radius=16&theme=gruvbox&area=true&order=5"/>
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilainezx/emilainezx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilainezx/emilainezx/output/pacman-contribution-graph.svg&v=1
-">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emilainezx/emilainezx/output/pacman-contribution-graph.svg&v=1
-">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilainezx/emilainezx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emilainezx/emilainezx/output/pacman-contribution-graph.svg">
 </picture>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=emilainezx&style=flat-square&color=755b25" /></p> 
-</div>
