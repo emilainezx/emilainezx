@@ -1,15 +1,15 @@
 name: Generate Pacman Contribution Graph
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman contribution graph
+      - name: Generate pacman contribution graph
         uses: Platane/pacman-contribution-graph@v2
         with:
           github_user_name: emilainezx
