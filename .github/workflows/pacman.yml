@@ -9,8 +9,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman graph
-        uses: platane/pacman-contribution-graph@master
+      - name: Generate Pacman contribution graph
+        uses: Platane/pacman-contribution-graph@v2
         with:
           github_user_name: emilainezx
 
