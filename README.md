@@ -8,22 +8,8 @@ Atualmente estudo C#, .NET e SQL, aplicando esses conhecimentos buscando evoluir
 
 Busco evoluir constantemente na área de tecnologia, aprendendo na prática e aprimorando minhas habilidades.
 
-<p align="left">
-    <a href="https://www.instagram.com/emilainezx/">
-        <img 
-            alt="Instagram" 
-            title="Inscreva-se no meu canal" 
-            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/emilaine-bernardo-919150311/">
-        <img 
-            alt="linkedin" 
-            title="Linkedin" 
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a> 
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=FBF1C7)](https://www.instagram.com/emilainezx/">)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.instagram.com/emilainezx/)
 
 ---
 
