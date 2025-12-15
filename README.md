@@ -83,22 +83,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqld
 
 ### 📊 Estatísticas
 
-<p>
+<div align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=emilainezx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilainezx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&size_weight=0.5&count_weight=0.5" 
-  />
-<p/>
+   height="150" 
+   alt="stats graph"
+   src="https://github-readme-stats.vercel.app/api?username=emilainezx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=false&order=1"/>
+  <img
+    height="150"
+    alt="languages graph"
+   src="https://github-readme-stats.vercel.app/api/top-langs?username=emilainezx&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2"/>
+  <img 
+  height="250" 
+  alt="activity-graph graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=emilainezx&radius=16&theme=gruvbox&area=true&order=5"/>
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilainezx/emilainezx/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilainezx/emilainezx/output/pacman-contribution-graph.svg">
