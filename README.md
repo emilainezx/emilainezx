@@ -87,7 +87,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
   <img
     height="150"
     alt="languages graph"
-   src="https://github-readme-stats.vercel.app/api/top-langs?username=emilainezx&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilainezx&locale=pt-br&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false&cache_seconds=1800&v=3"
+  />
+
   <img 
   height="250" 
   alt="activity-graph graph"
