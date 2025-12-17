@@ -68,8 +68,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 />
 <img
  align="left" 
-  alt="Bootstrap"
-  title="Bootstrap" 
+  alt="Git"
+  title="Git" 
   width="30px"  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
           
