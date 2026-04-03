@@ -1,6 +1,6 @@
 # 👩‍💻 Emilaine Bernardo
 
-``Desenvolvedora Backend``
+``Desenvolvedora Fullstack``
 
 Meu nome é Emilaine Bernardo da Silva, sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU.
 
