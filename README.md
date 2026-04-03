@@ -45,10 +45,10 @@ Atualmente aprendendo desenvolvimento backend e banco de dados. Busco evoluir co
 
 <img
  align="left" 
-  alt="Git"
-  title="Git" 
+  alt="javaScript"
+  title="JavaScrpit" 
   width="30px"  
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
           
           
 <br/>
