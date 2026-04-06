@@ -4,7 +4,7 @@
 
 Meu nome é Emilaine Bernardo da Silva, sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU.
 
-Atualmente aprendendo desenvolvimento backend e banco de dados. Busco evoluir constantemente na área de tecnologia, aprendendo na prática e aprimorando minhas habilidades.
+Atualmente estou aprendendo JavaScript, React e banco de dados. Busco evoluir constantemente na área de tecnologia, aprendendo na prática e aprimorando minhas habilidades.
 
 [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=FBF1C7)](https://www.instagram.com/emilainezx/">)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/emilaine-bernardo-919150311/)
