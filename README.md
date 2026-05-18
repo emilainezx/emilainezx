@@ -6,7 +6,7 @@
 
 ### Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=FBF1C7)](mailto:emilainebs@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=FBF1C7)](https://mail.google.com/mail/u/0/?to=emilainebs@gmail.com&fs=1&tf=cm)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/emilaine-bernardo-919150311/)
 
 ---
