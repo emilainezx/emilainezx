@@ -1,6 +1,6 @@
 # Olá, eu sou a Emilaine 👋
 
-> Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na UNINASSAU e desenvolvedora fullstack com foco em banco de dados.
+> Sou estudante de  Análise e Desenvolvimento de Sistemas na UNINASSAU e desenvolvedora fullstack com foco em backend e banco de dados.
 
 ---
 
