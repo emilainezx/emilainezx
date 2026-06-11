@@ -1,6 +1,6 @@
 # Olá, eu sou a Emilaine 👋
 
-> Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend e banco de dados. Atualmente no 3º período em busca de oportunidade de estágio para aplicar e expandir meus conhecimentos na prática.
+> Sou estudante de Análise e Desenvolvimento de Sistemas, cursando o 3º período, com foco em desenvolvimento backend e banco de dados. Estou em busca de uma oportunidade de estágio para aplicar e expandir meus conhecimentos na prática.
 
 ---
 
