@@ -1,6 +1,6 @@
 # Olá, eu sou a Emilaine 👋
 
-> Sou estudante de  Análise e Desenvolvimento de Sistemas na UNINASSAU e desenvolvedora fullstack com foco em backend e banco de dados.
+> Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend e banco de dados. Atualmente no 3º período em busca de oportunidade de estágio para aplicar e expandir meus conhecimentos na prática.
 
 ---
 
@@ -46,6 +46,14 @@
   width="30px"
   style="padding-right: 10px;"  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  
+  <img
+ align="left" 
+  alt="Git"
+  title="Git" 
+  width="30px"
+  style="padding-right: 10px;"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
           
           
 <br/>
